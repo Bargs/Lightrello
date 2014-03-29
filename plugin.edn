@@ -1,0 +1,6 @@
+{:name "lightrello"
+ :version "0.0.1"
+ :author ""
+ :source ""
+ :desc ""
+ :behaviors "lightrello.behaviors"}

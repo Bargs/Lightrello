@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "lightrello_compiled.js")]
+     :lightrello.hello [:lt.plugins.lightrello/on-close-destroy]}}
